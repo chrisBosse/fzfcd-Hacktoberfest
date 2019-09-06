@@ -6,4 +6,4 @@ This repository is for encouraging unexperienced people to contribute to the ope
 Requirements:
 -[fzf](https://github.com/junegunn/fzf)
 
-Note for CodeNight participants: Sadly, fzf is not available in ineks. You need to work on this alias using own computers.
+**Note for codenight participants: Sadly, fzf is not available in ineks. You need to work on this alias using own computers.**
